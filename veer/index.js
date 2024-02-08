@@ -1,0 +1,5 @@
+var transportation = ["Honda Bike", "Carolla car", "Japani Cycle", "Heavy Bike"];
+console.log("I would like to own a ", transportation[0]);
+console.log("I would like to own a ", transportation[1]);
+console.log("I would like to own a ", transportation[2]);
+console.log("I would like to own a ", transportation[3]);
